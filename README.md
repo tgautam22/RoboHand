@@ -2,13 +2,6 @@
 
 A robotic hand that mirrors human finger movements using computer vision and Arduino controlled servo motors.
 
----
-
-## Demo
-
-![RoboHand Demo](images/robohand_demo.jpg)
-
----
 
 ## How It Works
 
